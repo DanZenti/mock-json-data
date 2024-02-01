@@ -12,10 +12,6 @@
 	"invokedByUsername": "testuser1",
 	"invokedTimestamp": "2024-01-18T15:27:41+0000Z",
 	"message": "entry published",
-	"properties": {
-		"contentTypeId": "jiraData",
-	  "versionNumber": "871.0"
-	},
 	"createdTimestamp": "2024-01-18T15:37:41+0000Z"
 },
 {
@@ -31,10 +27,6 @@
 	"invokedByUsername": "testuser1",
 	"invokedTimestamp": "2024-01-18T15:27:41+0000Z",
 	"message": "entry published",
-	"properties": {
-		"contentTypeId": "jiraData",
-	  "versionNumber": "871.0"
-	},
 	"createdTimestamp": "2024-01-18T15:37:41+0000Z"
 },
 {
@@ -50,10 +42,6 @@
 	"invokedByUsername": "testuser1",
 	"invokedTimestamp": "2024-01-18T15:27:41+0000Z",
 	"message": "entry published",
-	"properties": {
-		"contentTypeId": "jiraData",
-	  "versionNumber": "871.0"
-	},
 	"createdTimestamp": "2024-01-18T15:37:41+0000Z"
 },
 {
@@ -69,10 +57,6 @@
 	"invokedByUsername": "testuser1",
 	"invokedTimestamp": "2024-01-18T15:27:41+0000Z",
 	"message": "entry published",
-	"properties": {
-		"contentTypeId": "jiraData",
-	  "versionNumber": "871.0"
-	},
 	"createdTimestamp": "2024-01-18T15:37:41+0000Z"
 },
 {
@@ -88,10 +72,6 @@
 	"invokedByUsername": "testuser1",
 	"invokedTimestamp": "2024-01-18T15:27:41+0000Z",
 	"message": "entry published",
-	"properties": {
-		"contentTypeId": "jiraData",
-	  "versionNumber": "871.0"
-	},
 	"createdTimestamp": "2024-01-18T15:37:41+0000Z"
 },
 {
@@ -107,10 +87,6 @@
 	"invokedByUsername": "testuser1",
 	"invokedTimestamp": "2024-01-18T15:27:41+0000Z",
 	"message": "entry published",
-	"properties": {
-		"contentTypeId": "jiraData",
-	  "versionNumber": "871.0"
-	},
 	"createdTimestamp": "2024-01-18T15:37:41+0000Z"
 },
 {
@@ -126,10 +102,6 @@
 	"invokedByUsername": "testuser1",
 	"invokedTimestamp": "2024-01-18T15:27:41+0000Z",
 	"message": "entry published",
-	"properties": {
-		"contentTypeId": "jiraData",
-	  "versionNumber": "871.0"
-	},
 	"createdTimestamp": "2024-01-18T15:37:41+0000Z"
 },
 {
@@ -145,10 +117,6 @@
 	"invokedByUsername": "testuser1",
 	"invokedTimestamp": "2024-01-18T15:27:41+0000Z",
 	"message": "entry published",
-	"properties": {
-		"contentTypeId": "jiraData",
-	  "versionNumber": "871.0"
-	},
 	"createdTimestamp": "2024-01-18T15:37:41+0000Z"
 }
 ]
