@@ -1,4 +1,5 @@
-{
+[
+	{
 	"id": "f9c89d7f-6bef-4ce0-b7d5-52fcfc98a111",
 	"alias": "develop",
 	"projectId": "e0144f5d-b6ee-42f2-96f5-05f7b360bb48",
@@ -150,3 +151,4 @@
 	},
 	"createdTimestamp": "2024-01-18T15:37:41+0000Z"
 }
+]
