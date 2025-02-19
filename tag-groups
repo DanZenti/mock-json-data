@@ -1,0 +1,63 @@
+{
+  "tags": {
+    "Countries": [
+      "United Kingdom", "France", "Germany", "China", "India",
+      "United States", "Canada", "Australia", "Nigeria", "Malaysia"
+    ],
+    "Academic Subjects": [
+      "Engineering", "Computer Science", "Business & Management", "Medicine", "Law",
+      "Psychology", "Biology", "Mathematics", "Humanities", "Social Sciences"
+    ],
+    "Student Services": [
+      "Accommodation", "Careers & Employability", "Student Support", "Mental Health & Wellbeing",
+      "Disability Services", "International Student Support", "Scholarships & Funding",
+      "Library Services", "IT Support", "Students’ Union"
+    ],
+    "Admissions & Applications": [
+      "Undergraduate Courses", "Postgraduate Courses", "Entry Requirements", "UCAS Applications",
+      "International Applications", "Clearing", "Open Days", "Personal Statements",
+      "Student Visas", "Tuition Fees"
+    ],
+    "University Life": [
+      "Freshers Week", "Student Societies", "Sports & Fitness", "Volunteering", "Study Abroad",
+      "Part-Time Work", "Internships", "Graduation", "Campus Facilities", "City Life"
+    ],
+    "Research & Innovation": [
+      "Research Centres", "PhD Opportunities", "Funding for Research", "Publications",
+      "Sustainability Initiatives", "Industry Partnerships", "Artificial Intelligence Research",
+      "Climate Change Studies", "Medical Breakthroughs", "Business Innovation"
+    ],
+    "University Governance & Policies": [
+      "Equality, Diversity & Inclusion", "Sustainability Policy", "Data Protection",
+      "Academic Regulations", "Code of Conduct", "Freedom of Speech", "Accessibility Policy",
+      "Ethical Research Guidelines", "Student Complaints Procedure", "University Rankings"
+    ],
+    "Image-Specific Tags": {
+      "Campus & Buildings": [
+        "University Campus", "Historic Buildings", "Modern Architecture", "Lecture Halls",
+        "Library Interior", "Student Accommodation", "Science Labs", "Study Spaces",
+        "Sports Facilities", "Green Spaces"
+      ],
+      "People & Activities": [
+        "Students Studying", "Graduation Ceremony", "Professors Teaching", "Group Discussions",
+        "Laboratory Work", "Student Presentations", "Team Projects", "Volunteering Events",
+        "Sports Teams", "Social Gatherings"
+      ],
+      "Events & Celebrations": [
+        "Open Day", "Freshers Week", "Graduation Day", "Guest Lectures", "Career Fair",
+        "International Student Events", "Charity Events", "Cultural Festivals",
+        "University Competitions", "Alumni Reunions"
+      ],
+      "Technology & Learning Resources": [
+        "Computer Labs", "Online Learning", "Digital Libraries", "Virtual Classrooms",
+        "Smartboards in Use", "E-Learning Platforms", "Research Equipment", "Robotics & AI Labs",
+        "Science Experiments", "VR & Simulation Labs"
+      ],
+      "City & Surroundings": [
+        "Cityscape", "Public Transport", "Local Cafés & Restaurants", "Parks & Green Spaces",
+        "Student Housing Areas", "Historic Landmarks", "Nightlife & Entertainment",
+        "Shopping Districts", "Cultural Attractions", "University Towns"
+      ]
+    }
+  }
+}
