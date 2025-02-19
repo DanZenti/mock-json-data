@@ -1,61 +1,92 @@
-[{
-    "Countries": [
-      "United Kingdom", "France", "Germany", "China", "India",
-      "United States", "Canada", "Australia", "Nigeria", "Malaysia"
-    ],
-    "Academic Subjects": [
-      "Engineering", "Computer Science", "Business & Management", "Medicine", "Law",
-      "Psychology", "Biology", "Mathematics", "Humanities", "Social Sciences"
-    ],
-    "Student Services": [
-      "Accommodation", "Careers & Employability", "Student Support", "Mental Health & Wellbeing",
-      "Disability Services", "International Student Support", "Scholarships & Funding",
-      "Library Services", "IT Support", "Students’ Union"
-    ],
-    "Admissions & Applications": [
-      "Undergraduate Courses", "Postgraduate Courses", "Entry Requirements", "UCAS Applications",
-      "International Applications", "Clearing", "Open Days", "Personal Statements",
-      "Student Visas", "Tuition Fees"
-    ],
-    "University Life": [
-      "Freshers Week", "Student Societies", "Sports & Fitness", "Volunteering", "Study Abroad",
-      "Part-Time Work", "Internships", "Graduation", "Campus Facilities", "City Life"
-    ],
-    "Research & Innovation": [
-      "Research Centres", "PhD Opportunities", "Funding for Research", "Publications",
-      "Sustainability Initiatives", "Industry Partnerships", "Artificial Intelligence Research",
-      "Climate Change Studies", "Medical Breakthroughs", "Business Innovation"
-    ],
-    "University Governance & Policies": [
-      "Equality, Diversity & Inclusion", "Sustainability Policy", "Data Protection",
-      "Academic Regulations", "Code of Conduct", "Freedom of Speech", "Accessibility Policy",
-      "Ethical Research Guidelines", "Student Complaints Procedure", "University Rankings"
-    ],
-    "Image-Specific Tags": {
-      "Campus & Buildings": [
-        "University Campus", "Historic Buildings", "Modern Architecture", "Lecture Halls",
-        "Library Interior", "Student Accommodation", "Science Labs", "Study Spaces",
-        "Sports Facilities", "Green Spaces"
-      ],
-      "People & Activities": [
-        "Students Studying", "Graduation Ceremony", "Professors Teaching", "Group Discussions",
-        "Laboratory Work", "Student Presentations", "Team Projects", "Volunteering Events",
-        "Sports Teams", "Social Gatherings"
-      ],
-      "Events & Celebrations": [
-        "Open Day", "Freshers Week", "Graduation Day", "Guest Lectures", "Career Fair",
-        "International Student Events", "Charity Events", "Cultural Festivals",
-        "University Competitions", "Alumni Reunions"
-      ],
-      "Technology & Learning Resources": [
-        "Computer Labs", "Online Learning", "Digital Libraries", "Virtual Classrooms",
-        "Smartboards in Use", "E-Learning Platforms", "Research Equipment", "Robotics & AI Labs",
-        "Science Experiments", "VR & Simulation Labs"
-      ],
-      "City & Surroundings": [
-        "Cityscape", "Public Transport", "Local Cafés & Restaurants", "Parks & Green Spaces",
-        "Student Housing Areas", "Historic Landmarks", "Nightlife & Entertainment",
-        "Shopping Districts", "Cultural Attractions", "University Towns"
-      ]
-    }
-}]
+[
+  {
+    "tagId": "1",
+    "tagName": "United Kingdom",
+    "tagGroup": "Countries",
+    "createdDate": "Monday, June 10, 2024 8:45:30 PM"
+  },
+  {
+    "tagId": "2",
+    "tagName": "France",
+    "tagGroup": "Countries",
+    "createdDate": "Monday, June 10, 2024 8:46:00 PM"
+  },
+  {
+    "tagId": "3",
+    "tagName": "Germany",
+    "tagGroup": "Countries",
+    "createdDate": "Monday, June 10, 2024 8:46:30 PM"
+  },
+  {
+    "tagId": "4",
+    "tagName": "Engineering",
+    "tagGroup": "Academic Subjects",
+    "createdDate": "Monday, June 10, 2024 8:47:00 PM"
+  },
+  {
+    "tagId": "5",
+    "tagName": "Computer Science",
+    "tagGroup": "Academic Subjects",
+    "createdDate": "Monday, June 10, 2024 8:47:30 PM"
+  },
+  {
+    "tagId": "6",
+    "tagName": "Accommodation",
+    "tagGroup": "Student Services",
+    "createdDate": "Monday, June 10, 2024 8:48:00 PM"
+  },
+  {
+    "tagId": "7",
+    "tagName": "Undergraduate Courses",
+    "tagGroup": "Admissions & Applications",
+    "createdDate": "Monday, June 10, 2024 8:48:30 PM"
+  },
+  {
+    "tagId": "8",
+    "tagName": "Freshers Week",
+    "tagGroup": "University Life",
+    "createdDate": "Monday, June 10, 2024 8:49:00 PM"
+  },
+  {
+    "tagId": "9",
+    "tagName": "Research Centres",
+    "tagGroup": "Research & Innovation",
+    "createdDate": "Monday, June 10, 2024 8:49:30 PM"
+  },
+  {
+    "tagId": "10",
+    "tagName": "Equality, Diversity & Inclusion",
+    "tagGroup": "University Governance & Policies",
+    "createdDate": "Monday, June 10, 2024 8:50:00 PM"
+  },
+  {
+    "tagId": "11",
+    "tagName": "University Campus",
+    "tagGroup": "Campus & Buildings",
+    "createdDate": "Monday, June 10, 2024 8:50:30 PM"
+  },
+  {
+    "tagId": "12",
+    "tagName": "Students Studying",
+    "tagGroup": "People & Activities",
+    "createdDate": "Monday, June 10, 2024 8:51:00 PM"
+  },
+  {
+    "tagId": "13",
+    "tagName": "Open Day",
+    "tagGroup": "Events & Celebrations",
+    "createdDate": "Monday, June 10, 2024 8:51:30 PM"
+  },
+  {
+    "tagId": "14",
+    "tagName": "Computer Labs",
+    "tagGroup": "Technology & Learning Resources",
+    "createdDate": "Monday, June 10, 2024 8:52:00 PM"
+  },
+  {
+    "tagId": "15",
+    "tagName": "Cityscape",
+    "tagGroup": "City & Surroundings",
+    "createdDate": "Monday, June 10, 2024 8:52:30 PM"
+  }
+]
