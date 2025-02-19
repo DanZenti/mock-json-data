@@ -1,5 +1,4 @@
 {
-  "tags": {
     "Countries": [
       "United Kingdom", "France", "Germany", "China", "India",
       "United States", "Canada", "Australia", "Nigeria", "Malaysia"
@@ -59,5 +58,4 @@
         "Shopping Districts", "Cultural Attractions", "University Towns"
       ]
     }
-  }
 }
